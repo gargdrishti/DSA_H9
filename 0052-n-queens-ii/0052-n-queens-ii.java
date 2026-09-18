@@ -32,7 +32,6 @@ class Solution {
             diag2[d2] = true;
 
             solve(row + 1, n, cols, diag1, diag2);
-
             cols[col] = false;
             diag1[d1] = false;
             diag2[d2] = false;
