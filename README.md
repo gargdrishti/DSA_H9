@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/gargdrishti/DSA_H9/tree/master/0037-sudoku-solver) |
+| [0146-lru-cache](https://github.com/gargdrishti/DSA_H9/tree/master/0146-lru-cache) |
 ## Matrix
 |  |
 | ------- |
@@ -49,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/gargdrishti/DSA_H9/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gargdrishti/DSA_H9/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gargdrishti/DSA_H9/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gargdrishti/DSA_H9/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
