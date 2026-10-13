@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/gargdrishti/DSA_H9/tree/master/0079-word-search) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/gargdrishti/DSA_H9/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -74,12 +75,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gargdrishti/DSA_H9/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/gargdrishti/DSA_H9/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gargdrishti/DSA_H9/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/gargdrishti/DSA_H9/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gargdrishti/DSA_H9/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/gargdrishti/DSA_H9/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
